@@ -2,7 +2,7 @@
 
 ## Description
 
-An E-commerce shopping application built with C# language, and Asp.Net Core 7 framework. App run on SQL server and follows MVC pattern.
+An E-commerce shopping Full-Stack application built with C# language, and Asp.Net Core 7 framework. App run on SQL server and follows MVC pattern.
 
 ## Usage
 
