@@ -12,6 +12,7 @@ An E-commerce shopping application built with C# language, and Asp.Net Core 7 fr
 * Stripe
 * SQL server
 * MVC pattern
+* Bootstrap
 
 ## Contact Info
 
