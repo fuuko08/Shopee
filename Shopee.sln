@@ -11,7 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopeeRazor_Temp", "ShopeeRazor_Temp\ShopeeRazor_Temp.csproj", "{70D72C87-4C59-4B59-B71C-91C193413073}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopee.DataAccess", "Shopee.DataAccess\Shopee.DataAccess.csproj", "{5856B820-DE0B-4A07-8A55-41964EB45F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopee.Utility", "Shopee.Utility\Shopee.Utility.csproj", "{FE352A9C-AEC8-4078-B871-04083B8FA5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopee.Models", "Shopee.Models\Shopee.Models.csproj", "{3B37B6DA-E1B8-46F4-A8AF-ED42FE301013}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +27,26 @@ Global
 		{8D200C54-474F-4250-A3AD-BB8784AF8B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D200C54-474F-4250-A3AD-BB8784AF8B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D200C54-474F-4250-A3AD-BB8784AF8B13}.Release|Any CPU.Build.0 = Release|Any CPU
-		{70D72C87-4C59-4B59-B71C-91C193413073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{70D72C87-4C59-4B59-B71C-91C193413073}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{70D72C87-4C59-4B59-B71C-91C193413073}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{70D72C87-4C59-4B59-B71C-91C193413073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5856B820-DE0B-4A07-8A55-41964EB45F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5856B820-DE0B-4A07-8A55-41964EB45F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5856B820-DE0B-4A07-8A55-41964EB45F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5856B820-DE0B-4A07-8A55-41964EB45F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA2D365-D144-431E-B910-59F4AC2DA354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA2D365-D144-431E-B910-59F4AC2DA354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA2D365-D144-431E-B910-59F4AC2DA354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA2D365-D144-431E-B910-59F4AC2DA354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE352A9C-AEC8-4078-B871-04083B8FA5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE352A9C-AEC8-4078-B871-04083B8FA5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE352A9C-AEC8-4078-B871-04083B8FA5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE352A9C-AEC8-4078-B871-04083B8FA5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1781D874-402C-41C4-8549-513792DA9F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1781D874-402C-41C4-8549-513792DA9F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1781D874-402C-41C4-8549-513792DA9F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1781D874-402C-41C4-8549-513792DA9F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B37B6DA-E1B8-46F4-A8AF-ED42FE301013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B37B6DA-E1B8-46F4-A8AF-ED42FE301013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B37B6DA-E1B8-46F4-A8AF-ED42FE301013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B37B6DA-E1B8-46F4-A8AF-ED42FE301013}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,6 +55,6 @@ Global
 		SolutionGuid = {BD2189CA-2432-4434-BC95-1B3D92FDFDAE}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{70D72C87-4C59-4B59-B71C-91C193413073} = {4C246552-74CB-4CB2-B817-64F9357DD1DC}
+		{1781D874-402C-41C4-8549-513792DA9F25} = {4C246552-74CB-4CB2-B817-64F9357DD1DC}
 	EndGlobalSection
 EndGlobal

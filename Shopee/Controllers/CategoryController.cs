@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Shopee.Data;
+using Shopee.DataAccess.Data;
 using Shopee.Models;
 
 namespace Shopee.Controllers

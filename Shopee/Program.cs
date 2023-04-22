@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Shopee.Data;
+using Shopee.DataAccess.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
